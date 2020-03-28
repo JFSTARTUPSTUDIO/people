@@ -8,6 +8,7 @@ const AppNavigator = createStackNavigator({
     //Configuração da página Main
     Main:{
         screen: PeoplePage,
+        
     },
     //Configuração de outras Páginas
     PeopleDetail:{
